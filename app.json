@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Vistel Telecom",
+    "slug": "vistel-telecom",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "visteltelecom",
+    "plugins": ["expo-router"],
+    "experiments": { "typedRoutes": true }
+  }
+}
